@@ -2,7 +2,8 @@
 
 - Readme - Tela de Login com Ocultação de Senha em HTML, CSS e JavaScript
 
-- Este repositório contém uma página de login desenvolvida com HTML, CSS e JavaScript, que inclui uma função para ocultar ou exibir a senha do usuário usando um checkbox. 
+- Este repositório contém uma página de login desenvolvida com HTML, CSS e JavaScript, que inclui uma função para ocultar ou exibir a senha do usuário usando um checkbox.
+  -
 Essa funcionalidade oferece uma opção de segurança adicional para os usuários durante o processo de login.
 
 - Instruções de Uso:
