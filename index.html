@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>login</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"rel="stylesheet"/>
+  </head>
+  <body>
+    <div class="card">
+      <h2 class="jello-horizontal">Gold sistemas</h2>
+      <form class="form">
+        <input
+          spellcheck="false"
+          class="control"
+          type="email"
+          placeholder="Email"
+        />
+        <div class="password">
+          <input
+            spellcheck="false"
+            class="control"
+            id="myPassword"
+            name="password"
+            type="password"
+            placeholder="Senha"
+            autocomplete="off"
+          />
+        </div>
+
+        <button class="control" type="button" >Login</button>
+
+        <label>
+          <input onclick="mouseoverPass();"onmouseout="mouseoutPass();" onchange="Desmarcar()"  id="checkbox" type="checkbox" />
+          <span>Mostrar senha</span>
+      </label>
+
+
+    <script type="text/javascript" src="main.js"></script>
+  </body>
+</html>
