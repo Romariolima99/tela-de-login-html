@@ -19,11 +19,11 @@ Clone este repositório para o seu ambiente local.
 - JavaScript: Funções que controlam a ocultação/exibição da senha.
 
 - Estrutura do Projeto:
-- 
+  - 
 
-index.html: Arquivo HTML que define a estrutura da tela de login e inclui os elementos do formulário e do checkbox.
-css/style.css: Arquivo CSS que contém as definições de estilo para a página.
-js/script.js: Arquivo JavaScript que contém as funções para ocultar/exibir a senha.
+- index.html: Arquivo HTML que define a estrutura da tela de login e inclui os elementos do formulário e do checkbox.
+- css/style.css: Arquivo CSS que contém as definições de estilo para a página.
+- js/script.js: Arquivo JavaScript que contém as funções para ocultar/exibir a senha.
 
 - Funcionalidade de Ocultação de Senha:
 A funcionalidade de ocultação de senha é implementada usando JavaScript. Ao marcar a caixa de seleção "Mostrar senha", a senha digitada será exibida como texto simples. 
