@@ -11,4 +11,4 @@ Abra a pasta de exemplo (tela-de-login-html)
 Instale o plug-in VS Code LiveServer.
 
 
-<img src="https://i.imgur.com/41ZaFOI.png" alt="GIF" data-canonical-src="ttps://i.imgur.com/41ZaFOI.png" style="max-width: 50%;">
+<img src="https://i.imgur.com/ZIqxMas.png" alt="GIF" data-canonical-src="https://i.imgur.com/ZIqxMas.png" style="max-width: 50%;">
