@@ -7,7 +7,10 @@
 
 
 - Para executar o projeto:
+
+
 - 1 Abra a pasta de exemplo (tela-de-login-html)
+
 
 - 2 Instale o plug-in VS Code LiveServer.
 
