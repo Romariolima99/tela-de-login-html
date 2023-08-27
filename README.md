@@ -14,9 +14,9 @@ Clone este repositório para o seu ambiente local.
 
 - Tecnologias Utilizadas:
 
-HTML: Estrutura da página de login e elementos interativos.
-CSS: Estilos aplicados à página para torná-la atraente e responsiva.
-JavaScript: Funções que controlam a ocultação/exibição da senha.
+- HTML: Estrutura da página de login e elementos interativos.
+- CSS: Estilos aplicados à página para torná-la atraente e responsiva.
+- JavaScript: Funções que controlam a ocultação/exibição da senha.
 
 - Estrutura do Projeto:
 
