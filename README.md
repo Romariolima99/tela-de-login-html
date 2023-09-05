@@ -8,9 +8,6 @@ Essa funcionalidade oferece uma opção de segurança adicional para os usuário
 
 - Instruções de Uso:
 Clone este repositório para o seu ambiente local.
-
-```shel
-  git clone https://github.com/Romariolima99/tela-de-login-html.git
 - 
 - Abra o arquivo index.html em um navegador da web para visualizar a tela de login.
 
@@ -34,7 +31,7 @@ Quando a caixa de seleção estiver desmarcada, a senha será ocultada por ponto
 - Personalização:
 Sinta-se à vontade para personalizar este projeto de acordo com suas preferências. Você pode modificar os estilos, adicionar mais elementos à página e ajustar as funcionalidades conforme necessário.
 
-- (OBS) Instale o plug-in VS Code LiveServer.
-
-
+```shel
+  git clone https://github.com/Romariolima99/tela-de-login-html.git
+ -
 <img src="https://i.imgur.com/ZIqxMas.png" alt="GIF" data-canonical-src="https://i.imgur.com/ZIqxMas.png" style="max-width: 50%;">
