@@ -31,7 +31,9 @@ Quando a caixa de seleção estiver desmarcada, a senha será ocultada por ponto
 - Personalização:
 Sinta-se à vontade para personalizar este projeto de acordo com suas preferências. Você pode modificar os estilos, adicionar mais elementos à página e ajustar as funcionalidades conforme necessário.
 
+##Uso
+
 ```shel
-  git clone https://github.com/Romariolima99/tela-de-login-html.git
- -
+  git clone https://github.com/Romariolima99/tela-de-login-html
+
 <img src="https://i.imgur.com/ZIqxMas.png" alt="GIF" data-canonical-src="https://i.imgur.com/ZIqxMas.png" style="max-width: 50%;">
