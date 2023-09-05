@@ -33,7 +33,9 @@ Sinta-se à vontade para personalizar este projeto de acordo com suas preferênc
 
 # Uso
 
-```shel
+1. Clone o repositório:
+
+```shell
   git clone https://github.com/Romariolima99/tela-de-login-html
 
 <img src="https://i.imgur.com/ZIqxMas.png" alt="GIF" data-canonical-src="https://i.imgur.com/ZIqxMas.png" style="max-width: 50%;">
