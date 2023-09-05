@@ -6,9 +6,6 @@
   -
 Essa funcionalidade oferece uma opção de segurança adicional para os usuários durante o processo de login.
 
-- Instruções de Uso:
-Clone este repositório para o seu ambiente local.
-- 
 - Abra o arquivo index.html em um navegador da web para visualizar a tela de login.
 
 - Tecnologias Utilizadas:
@@ -19,7 +16,6 @@ Clone este repositório para o seu ambiente local.
 
 - Estrutura do Projeto:
   - 
-
 - `index.html`: Arquivo HTML que define a estrutura da tela de login e inclui os elementos do formulário e do checkbox.
 - `css/style.css`: Arquivo CSS que contém as definições de estilo para a página.
 - `js/script.js`: Arquivo JavaScript que contém as funções para ocultar/exibir a senha.
@@ -33,7 +29,7 @@ Sinta-se à vontade para personalizar este projeto de acordo com suas preferênc
 
 <img src="https://i.imgur.com/ZIqxMas.png" alt="GIF" data-canonical-src="https://i.imgur.com/ZIqxMas.png" style="max-width: 50%;">
 
-# Uso
+# Instruções de Uso:
 
 1. Clone o repositório:
 
