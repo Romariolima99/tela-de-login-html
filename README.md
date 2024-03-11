@@ -1,7 +1,5 @@
 # tela-de-login-html
 
-- Readme - Tela de Login com Ocultação de Senha em HTML, CSS e JavaScript
-
 - Este repositório contém uma página de login desenvolvida com HTML, CSS e JavaScript, que inclui uma função para ocultar ou exibir a senha do usuário usando um checkbox.
   -
 Essa funcionalidade oferece uma opção de segurança adicional para os usuários durante o processo de login.
@@ -20,12 +18,8 @@ Essa funcionalidade oferece uma opção de segurança adicional para os usuário
 - `css/style.css`: Arquivo CSS que contém as definições de estilo para a página.
 - `js/script.js`: Arquivo JavaScript que contém as funções para ocultar/exibir a senha.
 
-- Funcionalidade de Ocultação de Senha:
-A funcionalidade de ocultação de senha é implementada usando JavaScript. Ao marcar a caixa de seleção "Mostrar senha", a senha digitada será exibida como texto simples. 
-Quando a caixa de seleção estiver desmarcada, a senha será ocultada por pontos.
 
-- Personalização:
-Sinta-se à vontade para personalizar este projeto de acordo com suas preferências. Você pode modificar os estilos, adicionar mais elementos à página e ajustar as funcionalidades conforme necessário.
+## Veja o Projeto: https://tela-de-login-html.netlify.app/
 
 <img src="https://i.imgur.com/ZIqxMas.png" alt="GIF" data-canonical-src="https://i.imgur.com/ZIqxMas.png" style="max-width: 50%;">
 
